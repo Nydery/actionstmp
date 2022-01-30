@@ -3,7 +3,7 @@ name: Node CI
 on: [push]
 
 jobs:
-  build:
+  deploy-website:
 
     runs-on: ubuntu-latest
 
